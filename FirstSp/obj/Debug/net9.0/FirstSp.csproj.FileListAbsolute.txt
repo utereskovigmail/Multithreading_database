@@ -149,3 +149,4 @@
 /Users/utereskovygmail.com/RiderProjects/SP/FirstSp/FirstSp/obj/Debug/net9.0/FirstSp.csproj.AssemblyReference.cache
 /Users/utereskovygmail.com/RiderProjects/SP/FirstSp/FirstSp/obj/Debug/net9.0/FirstSp.csproj.Up2Date
 /Users/utereskovygmail.com/RiderProjects/SP/FirstSp/FirstSp/bin/Debug/net9.0/Bogus.dll
+/Users/utereskovygmail.com/RiderProjects/SP/FirstSp/FirstSp/obj/Debug/net9.0/FirstSp.sourcelink.json
