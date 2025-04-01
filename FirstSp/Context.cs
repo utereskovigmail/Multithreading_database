@@ -20,6 +20,6 @@ public class Context : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=ep-broad-glitter-a8fxqbq7-pooler.eastus2.azure.neon.tech;Database=default;Username=neondb_owner;Password=npg_xapVfrWTDQ28");
+        optionsBuilder.UseNpgsql("Host=ep-orange-violet-a837i83l-pooler.eastus2.azure.neon.tech;Database=neondb;Username=neondb_owner;Password=npg_iZvCxsgn1Bm8");
     }
 }
